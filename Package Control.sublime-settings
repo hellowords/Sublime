@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Align Arguments",
+		"Alignment",
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"HTMLBeautify",
+		"IMESupport",
+		"Laravel 5 Artisan",
+		"Material Theme",
+		"Package Control",
+		"PhpNinJaManual",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jscs",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint",
+		"SyncedSideBar",
+		"SyncedSidebarBg",
+		"Theme - Soda"
+	]
+}

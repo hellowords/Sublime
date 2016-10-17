@@ -1,0 +1,5 @@
+[
+	{ "keys":  ["ctrl+2"],"command":"show_php_document"},
+	{ "keys": ["ctrl+3"], "command": "goto_definition" },
+
+]
