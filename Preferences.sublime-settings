@@ -3,7 +3,7 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"default_eccoding": "UTF-8",
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -14,6 +14,7 @@
 	"line_padding_top": 5,
 	"material_theme_accent_acid-lime": true,
 	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_fileicon": true,
 	"material_theme_contrast_mode": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
@@ -24,6 +25,6 @@
 	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
 	"update_check": false,
-	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|-+=[]{}`~?",
 	"word_wrap": false
 }
