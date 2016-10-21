@@ -10,6 +10,7 @@
 		"Alignment",
 		"BracketHighlighter",
 		"ConvertToUTF8",
+		"DocBlockr",
 		"Emmet",
 		"Git",
 		"HTMLBeautify",
@@ -17,9 +18,8 @@
 		"Laravel 5 Artisan",
 		"Material Theme",
 		"Package Control",
-		"ConvertToUTF8",
-		"Seti_UI",
 		"PhpNinJaManual",
+		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
@@ -30,6 +30,7 @@
 		"SublimeLinter-phplint",
 		"SyncedSideBar",
 		"SyncedSidebarBg",
-		"Theme - Soda"
+		"Theme - Soda",
+		"WakaTime"
 	]
 }

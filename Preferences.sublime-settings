@@ -10,6 +10,11 @@
 	[
 		"Vintage"
 	],
+	"rulers" :
+	[
+		80,
+		120
+	],
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
 	"material_theme_accent_acid-lime": true,
