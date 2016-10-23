@@ -1,0 +1,6 @@
+{
+	"encoding_list" : "UTF-8",
+	"max_cache_size" : 80,
+	"default_encoding_on_create" : "UTF-8",
+	"convert_on_load" : true,
+}
