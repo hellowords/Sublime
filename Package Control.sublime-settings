@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Align Arguments",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"IMESupport",
+		"OmniMarkupPreviewer",
+		"PhpNinJaManual",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jscs",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Sunrise Theme",
+		"SyncedSideBar",
+		"Theme - Lanzhou",
+		"WakaTime"
+	]
+}
