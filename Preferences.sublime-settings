@@ -6,13 +6,12 @@
 	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
 	"default_eccoding": "UTF-8",
 	"dpi_scale": 1.0,
-	"font_size": 16,
+	"font_size": 17,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"WakaTime"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
