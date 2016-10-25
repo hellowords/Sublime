@@ -2,7 +2,7 @@
     {
         "class": "tree_row",
         "layer0.tint": [
-            54,
+            83,
             82,
             91
         ]
@@ -11,7 +11,7 @@
         "class": "sidebar_container",
         "layer0.opacity": 1.0,
         "layer0.tint": [
-            54,
+            83,
             82,
             91
         ]
@@ -21,7 +21,7 @@
         "dark_content": true,
         "layer0.opacity": 1,
         "layer0.tint": [
-            4,
+            33,
             32,
             41
         ]
@@ -29,7 +29,7 @@
     {
         "class": "sidebar_label",
         "color": [
-            184,
+            213,
             212,
             221
         ]
@@ -44,12 +44,12 @@
     {
         "class": "disclosure_button_control",
         "layer0.tint": [
-            94,
+            123,
             122,
             131
         ],
         "layer1.tint": [
-            154,
+            183,
             182,
             191
         ]
@@ -57,12 +57,12 @@
     {
         "class": "fold_button_control",
         "layer0.tint": [
-            94,
+            123,
             122,
             131
         ],
         "layer1.tint": [
-            154,
+            183,
             182,
             191
         ]
@@ -70,12 +70,12 @@
     {
         "class": "scroll_tabs_left_button",
         "layer0.tint": [
-            124,
+            153,
             152,
             161
         ],
         "layer1.tint": [
-            184,
+            213,
             212,
             221
         ]
@@ -83,12 +83,12 @@
     {
         "class": "scroll_tabs_right_button",
         "layer0.tint": [
-            124,
+            153,
             152,
             161
         ],
         "layer1.tint": [
-            184,
+            213,
             212,
             221
         ]
@@ -96,12 +96,12 @@
     {
         "class": "show_tabs_dropdown_button",
         "layer0.tint": [
-            124,
+            153,
             152,
             161
         ],
         "layer1.tint": [
-            184,
+            213,
             212,
             221
         ]
@@ -109,7 +109,7 @@
     {
         "class": "icon_file_type",
         "layer0.tint": [
-            124,
+            153,
             152,
             161
         ]
@@ -117,7 +117,7 @@
     {
         "class": "icon_folder",
         "layer0.tint": [
-            94,
+            123,
             122,
             131
         ]
@@ -125,14 +125,14 @@
     {
         "class": "sidebar_heading",
         "color": [
-            94,
+            123,
             122,
             131
         ]
     },
     {
         "border_color": [
-            94,
+            123,
             122,
             131
         ],
