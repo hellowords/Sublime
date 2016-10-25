@@ -1,9 +1,11 @@
 {
 	"always_show_minimap_viewport": true,
-	"auto_complete": false,
+	"auto_complete": true,
+	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
 	"default_eccoding": "UTF-8",
+	"dpi_scale": 1,
 	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -11,11 +13,18 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		100
+		80,
+		120
 	],
 	"save_on_focus_lost": true,
 	"spell_check": false,
