@@ -1,16 +1,22 @@
 [
-	{ "keys":  ["ctrl+2"],"command":"show_php_document"},
+	{ "keys": ["ctrl+2"], "command":"show_php_document"},
 	{ "keys": ["ctrl+3"], "command": "goto_definition" },
-    { "keys": ["alt+c"], "command": "toggle_bookmark" },
-    { "keys": ["alt+x"], "command": "next_bookmark" },
-    { "keys": ["alt+z"], "command": "prev_bookmark" },
-    { "keys": ["ctrl+alt+c"], "command": "clear_bookmarks" },
+	{ "keys": ["alt+c"], "command": "toggle_bookmark" },
+	{ "keys": ["alt+x"], "command": "next_bookmark" },
+	{ "keys": ["alt+z"], "command": "prev_bookmark" },
+	{ "keys": ["ctrl+alt+c"], "command": "clear_bookmarks" },
     {
-        "keys": ["alt+o"], "command": "omni_markup_preview",
-        "context": [{"key": "omnimarkup_is_enabled", "operator": "equal", "operand": ""}]
-    },
-    { 
     	"keys": ["f1"], "command": "insert_datetime",
     	"args" : {"format" : "ymdhms"}
-    }
+    },
+    { "keys": ["ctrl+t"], "command": "open_terminal" },
+    { "keys": ["ctrl+alt+t"], "command": "open_terminal_project_folder" },
+    {
+        "keys": ["f2"],
+        "command": "file_header_add_header",
+        "args":{
+            "paths": []
+        }
+    },
+    { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
 ]

@@ -5,8 +5,19 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
 	"default_eccoding": "UTF-8",
+	"default_line_ending": "unix",
 	"dpi_scale": 1.0,
-	"font_size": 18,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"bower_components"
+	],
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -30,7 +41,13 @@
 	"spell_check": false,
 	"tab_size": 4,
 	"theme": "Lanzhou.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|-+=[]{}`~?",
-	"word_wrap": false
+	"word_wrap": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"default_line_ending": "unix",
+	"highlight_modified_tabs": true,
+	"folder_exclude_patterns":[".svn", ".git", ".hg", "CVS", "node_modules", "bower_components"],
 }

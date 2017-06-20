@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+/* Line Mumber: $TM_LINE_NUMBER */
+/* Author: happyhack.cn */
+/* End of file : $TM_FILENAME */
+/* Location: $TM_FILEPATH */
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>end</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

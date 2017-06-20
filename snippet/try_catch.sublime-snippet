@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+try {
+    ${1}
+} catch (C_DB_Exception \$ex) {
+    //数据库错误
+    \$this->errorResponse(-300001, C_message::GET(-300001));
+} catch (Exception \$ex) {
+    //服务器出现异常
+    \$this->errorResponse(-900001, C_message::GET(-900001));
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tr</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
